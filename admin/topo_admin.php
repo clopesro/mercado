@@ -59,7 +59,7 @@
 		}
 
 	
-		function confirmar_exclusao(codigo_vendedor) {
+		function confirmar_exclusao_vendedor(codigo_vendedor) {
 
 			 var resposta = confirm("Deseja continuar com a exclusão?");
 
@@ -69,7 +69,7 @@
 			 }
 		}
 
-		function confirmar_exclusao(codigo_fornecedor) {
+		function confirmar_exclusao_fornecedor(codigo_fornecedor) {
 
 			 var resposta = confirm("Deseja continuar com a exclusão?");
 
@@ -79,7 +79,7 @@
 			 }
 		}
 
-		function confirmar_exclusao(codigo_item) {
+		function confirmar_exclusao_item(codigo_item) {
 
 			 var resposta = confirm("Deseja continuar com a exclusão?");
 
@@ -89,7 +89,7 @@
 			 }
 		}
 
-		function confirmar_exclusao(codigo_pedido) {
+		function confirmar_exclusao_pedido(codigo_pedido) {
 
 			 var resposta = confirm("Deseja continuar com a exclusão?");
 
@@ -99,7 +99,7 @@
 			 }
 		}
 
-		function confirmar_exclusao(codigo_produto) {
+		function confirmar_exclusao_produto(codigo_produto) {
 
 			 var resposta = confirm("Deseja continuar com a exclusão?");
 
