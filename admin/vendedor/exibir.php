@@ -60,7 +60,7 @@
 
 						<td>
 
-							<a href="javascript:func()" onclick="confirmar_exclusao('<?php echo $dados_vendedor['codigo_vendedor'];?>')">
+							<a href="javascript:func()" onclick="confirmar_exclusao_vendedor('<?php echo $dados_vendedor['codigo_vendedor'];?>')">
 								<img src="../../img/excluir.png" class="botao_acao" title="Excluir">
 							</a>
 						</td>
