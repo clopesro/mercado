@@ -20,13 +20,13 @@
 	$url = "http://".$host_ip."/";
 
 	$url_admin = "http://".$host_ip."/admin";
-	$url_aluno = "http://".$host_ip."/portal/aluno";
-	$url_cliente = "http://".$host_ip."/portal/cliente";
-	$url_vendedor = "http://".$host_ip."/portal/vendedor";
-	$url_fornecedor = "http://".$host_ip."/portal/fornecedor";
-	$url_fornecedor = "http://".$host_ip."/portal/item";
-	$url_fornecedor = "http://".$host_ip."/portal/pedido";
-	$url_fornecedor = "http://".$host_ip."/portal/produto";
+	$url_aluno = "http://".$host_ip."/admin/aluno";
+	$url_cliente = "http://".$host_ip."/admin/cliente";
+	$url_vendedor = "http://".$host_ip."/admin/vendedor";
+	$url_fornecedor = "http://".$host_ip."/admin/fornecedor";
+	$url_fornecedor = "http://".$host_ip."/admin/item";
+	$url_fornecedor = "http://".$host_ip."/admin/pedido";
+	$url_fornecedor = "http://".$host_ip."/admin/produto";
 	
 	
 ?>
