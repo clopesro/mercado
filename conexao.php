@@ -17,9 +17,9 @@
 	
 	$host_ip = $_SERVER['HTTP_HOST'];
 	
-	$url = "http://".$host_ip."/portal";
+	$url = "http://".$host_ip."/mercado";
 
-	$url_admin = "http://".$host_ip."/portal/admin";
+	$url_admin = "http://".$host_ip."/mercado/admin";
 	$url_aluno = "http://".$host_ip."/portal/aluno";
 	$url_cliente = "http://".$host_ip."/portal/cliente";
 	$url_vendedor = "http://".$host_ip."/portal/vendedor";
