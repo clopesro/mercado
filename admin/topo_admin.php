@@ -48,7 +48,7 @@
 
 	<script>
 
-		function confirmar_exclusao(codigo_cliente) {
+		function confirmar_exclusao_cliente(codigo_cliente) {
 		     
 		     var resposta = confirm("Deseja continuar com a exclusão?");
 		     
