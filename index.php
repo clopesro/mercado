@@ -9,7 +9,7 @@
 	<title>Portal</title>
 
 	<!-- ARQUIVO DE ESTILOS DO PORTAL -->
-	<link rel="stylesheet" type="text/css" href="http://localhost/mercado/css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="https://mercacinholeandro.herokuapp.com/css/estilo.css">
 	
 </head>
 
